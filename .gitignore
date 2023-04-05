@@ -1,0 +1,10 @@
+# 
+vendor/
+
+cover.html
+
+# IntelliJ project files
+.idea
+out
+gen
+main
